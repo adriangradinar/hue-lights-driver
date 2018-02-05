@@ -1,7 +1,7 @@
 {
 	"manifest-version": 1,
 
-	"name": "example-driver",
+	"name": "adrian-hue-driver",
 	"databox-type": "driver",
 	"version": "0.1.0",
 
