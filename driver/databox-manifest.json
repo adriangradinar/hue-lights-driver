@@ -1,0 +1,26 @@
+{
+	"manifest-version": 1,
+
+	"name": "example-driver",
+	"databox-type": "driver",
+	"version": "0.1.0",
+
+	"description": "A driver for the Object Based Media demo",
+	"author": "James Colley <colley@nottingham.ac.uk> ()",
+	"license": "MIT",
+	"tags": [
+		"Example",
+		"Driver",
+		"nodejs"
+	],
+
+	"homepage": "https://github.com/jcolley/Example-Driver",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jcolley/Example-Driver"
+	},
+
+	"resource-requirements": {
+		"store": "core-store"
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "name": "obm-databox",
+  "version": "0.1.0",
+  "description": "A template Databox driver in Node.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Object-Based-media/OBM-DataBox"
+  },
+  "keywords": [
+    "Object",
+    "Based",
+    "Media",
+    "nodejs"
+  ],
+  "author": "Tosh Brown <toshbrown@gmail.com> ()",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Object-Based-media/OBM-DataBoxissues"
+  },
+  "homepage": "https://github.com/Object-Based-media/OBM-DataBox#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-databox": "^0.6.1"
+  }
+}
